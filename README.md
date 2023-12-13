@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">.・゜゜・Welcome・゜゜・．</h2>
+<h2 align="left">Hello World!!. • ☆ . ° .• °:. *₊ ° . ☆</h2>
 
 ###
 
@@ -21,6 +21,12 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
 </div>
+
+<style>
+  a{
+    text-decoration: none;
+  }
+</style>
 
 ###
 
@@ -47,7 +53,7 @@
 
 ###
 
-<p align="left">Hello World!!. • ☆ . ° .• °:. *₊ ° . ☆<br>My name is Gabi Lecusay and I'm an enthusiastic beginner when it comes to programming creative content. I love making web art and I appreciate you coming to check out what I have made so far! I'm currently a student at NWSA and I'm finishing my BFA in Art and Technology. My favorite things include animating, illustrating, and making other people smile!<br><br>I'm currently working as a basic Web Design tutor for HTML, CSS, & JS. I'm incredibly interested in a mentorship or internship for front-end & browser game design. I hope that you like what you find!</p>
+<p align="left">My name is Gabi Lecusay and I'm an enthusiastic beginner when it comes to programming creative content. I love making web art and I appreciate you coming to check out what I have made so far! I'm currently a student at NWSA and I'm finishing my BFA in Art and Technology. My favorite things include animating, illustrating, and making other people smile!<br><br>I'm currently working as a basic Web Design tutor for HTML, CSS, & JS. I'm incredibly interested in a mentorship or internship for front-end & browser game design. I hope that you like what you find!</p>
 
 ###
 
