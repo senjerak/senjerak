@@ -25,25 +25,19 @@
 ###
 
 <div align="right">
-  <a href="https://www.linkedin.com/in/gabi-l-441508128/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabi-l-441508128/" style="text-decoration:none" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="gabriela.lecusay001@mymdc.net" target="_blank">
+  <a href="gabriela.lecusay001@mymdc.net" style="text-decoration:none" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.youtube.com/@Senjekai/videos" target="_blank">
+  <a href="https://www.youtube.com/@Senjekai/videos" style="text-decoration:none" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/kai0sen/" target="_blank">
+  <a href="https://www.instagram.com/kai0sen/" style="text-decoration:none" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-<style>
-  a{
-    text-decoration: none;
-  }
-</style>
 
 ###
 
