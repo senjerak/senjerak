@@ -22,12 +22,6 @@
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
 </div>
 
-<style>
-  a{
-    text-decoration: none;
-  }
-</style>
-
 ###
 
 <div align="right">
@@ -44,6 +38,12 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+<style>
+  a{
+    text-decoration: none;
+  }
+</style>
 
 ###
 
