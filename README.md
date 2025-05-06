@@ -15,11 +15,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="30" alt="adobeaftereffects logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
 </div>
 
 <br clear="both">
