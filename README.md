@@ -4,18 +4,14 @@
 
 ###
 
-<h2 align="left">Hello World!!. • ☆ . ° .• °:. *₊ ° . ☆</h2>
+<h2 align="left">Hello World • ☆ . ° .• °:. *₊ ° . ☆</h2>
 
 ###
 
-<div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="adobeillustrator logo"  />
+<div align="center">
+  <img src="https://pixelsafari.neocities.org/blinkies/web/doitondesktop.gif"  alt="blinkie"  />
+  <img src="https://pixelsafari.neocities.org/blinkies/web/htmljunkie.gif" alt="blinkie"  />
+  <img src="https://pixelsafari.neocities.org/blinkies/artist.gif"  alt="blinkie"  />
 </div>
 
 <br clear="both">
@@ -24,15 +20,18 @@
 
 ###
 
-<p align="left">My name is Gabi Lecusay and I'm an enthusiastic beginner when it comes to programming creative content. I love making web art and I appreciate you coming to check out what I have made so far! I'm currently a student at NWSA and I'm finishing my BFA in Art and Technology. My favorite things include animating, illustrating, and making other people smile!<br><br>I'm currently working as a freelancer as I build websites, 3D print, and illustrate for my many clients. I'm interested in a mentorship or internship for UI positions or indie browser game design. I hope that you like what you find!</p>
+<p align="left">My name is <b>Gabi</b> and I'm an enthusiastic beginner when it comes to programming creative content. <br> I love making creative art and I appreciate you coming to check out what I have made so far! I'm currently a student at NWSA and I'm finishing my BFA in Art and Technology. <br><br>I build websites, 3D print, and illustrate 2D and 3D graphics. I'm always interested in a mentorship or internship for UI positions or indie game design. I hope that you have a wonderful day!</p>
+<p><small>25 | ⚦ | ♋︎</small></p>
 
 ###
 
 <br clear="both">
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senjerak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=ocean_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=senjerak&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://pixelsafari.neocities.org/favicon/object/tech/computer4.gif"  alt="blinkie"  />
+  <img src="https://pixelsafari.neocities.org/text/viewedchrome1.gif" alt="blinkie"  />
+  <img src="https://pixelsafari.neocities.org/favicon/object/tech/computer4.gif"  alt="blinkie"  />
 </div>
 
 ###
