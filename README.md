@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">My name is <b>Gabi</b> and I'm an enthusiastic beginner when it comes to programming creative content. <br> I love making creative art and I appreciate you coming to check out what I have made so far! I'm currently a student at NWSA and I'm finishing my BFA in Art and Technology. <br><br>I build websites, 3D print, and illustrate 2D and 3D graphics. I'm always interested in a mentorship or internship for UI positions or indie game design. I hope that you have a wonderful day!</p>
+<p align="left">My name is <b>Gabi</b> and I'm an enthusiastic beginner when it comes to programming creative content. <br> I love making wonderful art and I appreciate you coming to check out what I have made so far! I'm currently a student at NWSA and I'm finishing my BFA in Art and Technology. <br><br>I build websites, 3D print, and illustrate 2D and 3D graphics. I'm always interested in a mentorship or internship for UI positions or indie game design. I hope that you have a wonderful day!</p>
 <p><small>25 | ⚦ | ♋︎</small></p>
 
 ###
