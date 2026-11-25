@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">My name is <b>Gabi</b> and I'm an enthusiastic beginner when it comes to programming creative content. <br> I love making wonderful art and I appreciate you coming to check out what I have made so far!</p>
+<p align="left">My name is <b>Gabi</b> and I'm an enthusiastic beginner when it comes to programming creative content. My hobbies are illustrating, animating, 3D printing, and eternal online browsing. I'm quiet but I try my best.</p>
 <p><small>27 | ⚦ | ♋︎</small></p>
 
 ###
